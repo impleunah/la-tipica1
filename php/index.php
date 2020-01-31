@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-     print"hola"
+     print"hola   mundo"
 </body>
 </html>
