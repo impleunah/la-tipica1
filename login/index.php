@@ -9,11 +9,11 @@
     <link rel="stylesheet" href="../Estilo/estilos.css">
 </head>
 <body>
-                
+
     <h1 class=" login">INICIAR SESIÓN</h1>
-    
+
     <div class="adc">
-        <Form action="login.php" method="post"> 
+        <Form action="login.php" method="post">
             <!-- texto de correo       -->
             <input type="text" name="correo" placeholder="Introdusca su Correo">
             <!-- Texto de passsword       -->
@@ -21,7 +21,7 @@
             <!--  boton       -->
             <input type="submit" value="Enviar">
         </Form>
-        	<a href="registro.php">Registrate</a>
+        	
     </div>
 </body>
 </html>
