@@ -1,0 +1,75 @@
+/*Cuerpo del Documento */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border-color: aqua;
+    display:block;
+    background-image: url(../imagenes/Seasoning-spices-pepper-spoon-nuts-leaves_3840x2160.jpg);
+    
+}
+/*Caja  corre y contraseña*/
+.adc{
+    padding: 2rem;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    background-position: center;
+    background-color: #74d2e7;
+}
+/*caja de login */
+.login{
+    padding: 2rem;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    margin-block-end: 0;
+    background-position: center;
+    color: #ffffff; 
+    background: #48a9c5;
+
+} 
+/*mejoras en el correo y contraseña*/
+input[type="text"], input[type="password"]{
+    outline: none;
+    padding: 20px;
+    display: block;
+    width: 300px;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    margin: 20px auto;
+    
+}
+
+/* boton enviar*/
+input[type="submit"]{
+    padding: 1rem 5rem ;
+    margin-right: 5rem;
+    margin-left: 5rem;
+ 
+    background-position: center;
+    color: #ffffff; 
+    font-size: 1rem;
+    background: #0085ad;
+    border: 0rem;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color:#84bd00 ;
+}
+
+/*Registro*/
+
+a{
+      margin-left: 15rem ;
+   
+      cursor: pointer;
+      /*padding: 5rem;*/
+      text-decoration: none;
+      
+      
+      
+  }
+ a:hover{
+      color: #ffffff;
+  }
+  
