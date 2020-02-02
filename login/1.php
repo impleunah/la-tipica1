@@ -14,13 +14,6 @@
     <h1 > INICIAR SESIÓN </h1>
         <a href="login.php">Login</a> or
         <a href="registro.php">Registro</a>
-        <a href=""></a>
-
-        <a href=""></a>
         
-
-            <a href=""></a>
-            <A>SADAS</A>
-    
 </body>
 </html>
