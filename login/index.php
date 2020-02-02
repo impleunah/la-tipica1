@@ -21,6 +21,7 @@
             <!--  boton       -->
             <input type="submit" value="Enviar">
         </Form>
+        <a href="registro.php">re</a>
         	
     </div>
 </body>
