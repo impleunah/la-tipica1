@@ -65,11 +65,17 @@ a{
       cursor: pointer;
       /*padding: 5rem;*/
       text-decoration: none;
-      
-      
-      
+
   }
  a:hover{
       color: #ffffff;
+  }
+
+  input[type="datetime-local"]{
+    list-style: none;
+    display: flex;
+    padding: 1rem 1rem ;
+    margin: 2rem 5rem ;
+
   }
   

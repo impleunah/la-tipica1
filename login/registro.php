@@ -39,9 +39,16 @@
     
     <div class="adc">
                 <form action="registro.php" method="POST">
+                <input type="text" name="Usuario" placeholder="Usuario">
+                <input type="text" name="Nombre Completo"  placeholder="Nombre Completo">
+                <input type="text" name="Rol de usuario"  placeholder="Rol de usuario">
                 <input name="email" type="text" placeholder="Introdusca su Correo">
                 <input name="password" type="password" placeholder="Introdusca su Contraseña">
                 <input name="confirm_password" type="password" placeholder="Confirme su Contraseña">
+                <input type="datetime-local" name="Fecha de creacion" placeholder="Fecha de creacion">
+                <input type="datetime-local" name="Frecha de vencimiento" placeholder="Frecha de vencimiento">
+                <input type="text" name="Estado Usuario" placeholder="Estado Usuario">
+                
                 <input type="submit" value="Enviar">
                 </form>
                 <a href="index.php"> Login </a>
